@@ -1,7 +1,7 @@
 #use_frameworks!
 
-target 'LDJToolsKit_Example' do
-  pod 'LDJToolsKit', :path => '../'
+target 'iOSToolsKit_Example' do
+  pod 'iOSToolsKit', :path => '../'
 
-  pod 'iOSToolsKit', :git=>'http://source.jd.com/app/iOSToolsKit.git'
+  
 end

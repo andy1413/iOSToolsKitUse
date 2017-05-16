@@ -1,9 +1,9 @@
-# LDJToolsKit
+# iOSToolsKit
 
-[![CI Status](http://img.shields.io/travis/wangfangshuai/LDJToolsKit.svg?style=flat)](https://travis-ci.org/wangfangshuai/LDJToolsKit)
-[![Version](https://img.shields.io/cocoapods/v/LDJToolsKit.svg?style=flat)](http://cocoapods.org/pods/LDJToolsKit)
-[![License](https://img.shields.io/cocoapods/l/LDJToolsKit.svg?style=flat)](http://cocoapods.org/pods/LDJToolsKit)
-[![Platform](https://img.shields.io/cocoapods/p/LDJToolsKit.svg?style=flat)](http://cocoapods.org/pods/LDJToolsKit)
+[![CI Status](http://img.shields.io/travis/wangfangshuai/iOSToolsKit.svg?style=flat)](https://travis-ci.org/wangfangshuai/iOSToolsKit)
+[![Version](https://img.shields.io/cocoapods/v/iOSToolsKit.svg?style=flat)](http://cocoapods.org/pods/iOSToolsKit)
+[![License](https://img.shields.io/cocoapods/l/iOSToolsKit.svg?style=flat)](http://cocoapods.org/pods/iOSToolsKit)
+[![Platform](https://img.shields.io/cocoapods/p/iOSToolsKit.svg?style=flat)](http://cocoapods.org/pods/iOSToolsKit)
 
 ## Example
 
@@ -13,11 +13,11 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-LDJToolsKit is available through [CocoaPods](http://cocoapods.org). To install
+iOSToolsKit is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "LDJToolsKit"
+pod "iOSToolsKit"
 ```
 
 ## Author
@@ -26,4 +26,4 @@ wangfangshuai, wangfangshuai@jd.com
 
 ## License
 
-LDJToolsKit is available under the MIT license. See the LICENSE file for more info.
+iOSToolsKit is available under the MIT license. See the LICENSE file for more info.

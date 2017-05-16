@@ -1,5 +1,4 @@
 PODS:
-  - AFNetworking/Reachability (3.1.0)
   - GTMBase64 (1.0.0)
   - iOSToolsKit (1.0):
     - GTMBase64
@@ -26,35 +25,22 @@ PODS:
     - iOSToolsKit/KeychainItemWrapper
     - MD5Digest
     - OpenSSL
-  - LDJToolsKit (0.1.0):
-    - AFNetworking/Reachability
-    - iOSToolsKit (~> 1.0)
   - MD5Digest (1.1.0)
   - OpenSSL (1.0.210)
 
 DEPENDENCIES:
-  - iOSToolsKit (from `http://source.jd.com/app/iOSToolsKit.git`)
-  - LDJToolsKit (from `../`)
+  - iOSToolsKit (from `../`)
 
 EXTERNAL SOURCES:
   iOSToolsKit:
-    :git: http://source.jd.com/app/iOSToolsKit.git
-  LDJToolsKit:
     :path: ../
 
-CHECKOUT OPTIONS:
-  iOSToolsKit:
-    :commit: 48d4d3a86187343ff69e883d48d9619c12959df3
-    :git: http://source.jd.com/app/iOSToolsKit.git
-
 SPEC CHECKSUMS:
-  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   GTMBase64: 0da7372e95f5171f3f652db38cde6716f8eb5e24
-  iOSToolsKit: a37edcb613ef0c8d70f06cfaba38dc21864683ea
-  LDJToolsKit: 35ca693a9f7749526f4a43def4e7898ff0bc9404
+  iOSToolsKit: a179e21a43843efddc38e04124d2fbd92f2aade4
   MD5Digest: fea371215507cfcdc3c9633d02cffc7fd075ebc3
   OpenSSL: 246ffb948e9d56466727fd318134af35f5aa764e
 
-PODFILE CHECKSUM: 8e968df1e0e1cd7dc8f5e90123e90d75668ac592
+PODFILE CHECKSUM: e57416a63e9715e29711f029066522cef3c1c0ce
 
 COCOAPODS: 1.2.0

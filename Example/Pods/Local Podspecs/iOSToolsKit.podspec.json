@@ -3,7 +3,7 @@
   "version": "1.0",
   "summary": "A short description of iOSToolsKit.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "http://source.jd.com/app/iOSToolsKit.git",
+  "homepage": "http://source.jd.com/app/LDJToolsKit.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "wangfangshuai": "wangfangshuai@jd.com"
   },
   "source": {
-    "git": "http://source.jd.com/app/iOSToolsKit.git",
+    "git": "http://source.jd.com/app/LDJToolsKit.git",
     "tag": "1.0"
   },
   "platforms": {

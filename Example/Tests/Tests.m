@@ -1,8 +1,8 @@
 //
-//  LDJToolsKitTests.m
-//  LDJToolsKitTests
+//  iOSToolsKitTests.m
+//  iOSToolsKitTests
 //
-//  Created by wangfangshuai on 05/09/2017.
+//  Created by wangfangshuai on 05/08/2017.
 //  Copyright (c) 2017 wangfangshuai. All rights reserved.
 //
 

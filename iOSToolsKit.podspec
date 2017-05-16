@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iOSToolsKit'
-  s.version          = '1.0'
+  s.version          = '1.1'
   s.summary          = 'A short description of iOSToolsKit.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'http://source.jd.com/app/iOSToolsKit.git'
+  s.homepage         = 'https://github.com/wangfangshuai/iOSToolsKitUse.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wangfangshuai' => 'wangfangshuai@jd.com' }
-  s.source           = { :git => 'http://source.jd.com/app/iOSToolsKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/wangfangshuai/iOSToolsKitUse.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
